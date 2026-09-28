@@ -1,0 +1,13 @@
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\bin\Debug\net10.0\NameCore.deps.json
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\bin\Debug\net10.0\NameCore.dll
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\bin\Debug\net10.0\NameCore.pdb
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\NameCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\NameCore.AssemblyInfoInputs.cache
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\NameCore.AssemblyInfo.cs
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\NameCore.csproj.CoreCompileInputs.cache
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\NameCore.sourcelink.json
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\NameCore.dll
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\refint\NameCore.dll
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\NameCore.pdb
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\ref\NameCore.dll
+C:\Users\UpgradePC\Documents\Projekts\NameDay\NameCore\obj\Debug\net10.0\NameCore.csproj.Up2Date
