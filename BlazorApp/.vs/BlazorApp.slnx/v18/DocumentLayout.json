@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\",
+  "WorkspaceRootPath": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FDE0D242-8A27-4D58-A032-38DEA67BBF2B}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projekts\\nameday\\blazorapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDE0D242-8A27-4D58-A032-38DEA67BBF2B}|BlazorApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projects\\nameday\\blazorapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDE0D242-8A27-4D58-A032-38DEA67BBF2B}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projekts\\nameday\\blazorapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDE0D242-8A27-4D58-A032-38DEA67BBF2B}|BlazorApp.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projects\\nameday\\blazorapp\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDE0D242-8A27-4D58-A032-38DEA67BBF2B}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projekts\\nameday\\blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FDE0D242-8A27-4D58-A032-38DEA67BBF2B}|BlazorApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projects\\nameday\\blazorapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FDE0D242-8A27-4D58-A032-38DEA67BBF2B}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projekts\\nameday\\blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDE0D242-8A27-4D58-A032-38DEA67BBF2B}|BlazorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projects\\nameday\\blazorapp\\wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|solutionrelative:wwwroot\\favicon.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projects\\nameday\\blazorapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|solutionrelative:components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projects\\nameday\\blazorapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|solutionrelative:components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projects\\nameday\\blazorapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|c:\\users\\upgradepc\\documents\\projects\\nameday\\blazorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27F76D72-2B50-69F5-F67F-C21252CFC197}|BlazorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,60 +45,104 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T17:03:21.018Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\Components\\App.razor",
-              "RelativeDocumentMoniker": "Components\\App.razor",
-              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\Components\\App.razor",
-              "RelativeToolTip": "Components\\App.razor",
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-28T17:03:14.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-28T17:02:48.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "wwwroot\\favicon.png",
+              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\wwwroot\\favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "RelativeToolTip": "wwwroot\\favicon.png -  [English (United States)] - PNG [32x32, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-09-28T17:02:33.711Z",
+              "EditorCaption": " -  [English (United States)] - PNG [32x32, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Components\\App.razor",
+              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\App.razor",
+              "RelativeToolTip": "Components\\App.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-09-28T07:03:54.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\Components\\_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\_Imports.razor",
               "RelativeToolTip": "Components\\_Imports.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T07:03:52.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T07:03:52.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-28T07:01:42.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T07:01:42.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-28T06:47:45.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-28T06:47:45.207Z"
             }
           ]
         }

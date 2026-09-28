@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4R9Lam32+Hc=",
+  "dgSpecHash": "CTtsJQr5zbE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\UpgradePC\\Documents\\Projekts\\NameDay\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\UpgradePC\\Documents\\Projects\\NameDay\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UpgradePC\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.12\\microsoft.aspnetcore.app.internal.assets.10.0.12.nupkg.sha512"
   ],
